@@ -2,6 +2,11 @@
 
 A computer vision-powered Pong game that supports both single-player and two-player modes, where players control paddles using hand gestures detected through a webcam and MediaPipe. The game features real-time ball physics, collision detection, lives tracking, and dynamic victory screens—all controlled entirely through hand movements.
 
+## Demo vid 
+[![Watch the video](https://img.youtube.com/vi/oXxv7skM74w/maxresdefault.jpg)](https://youtu.be/oXxv7skM74w)
+
+### [Watch the demo on YouTube](https://youtu.be/oXxv7skM74w)
+
 ## Features
 
 - **Dual Game Modes**: Single-player mode with accelerating difficulty and two-player competitive mode
